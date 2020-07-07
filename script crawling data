@@ -1,7 +1,7 @@
 import tweepy,sys,jsonpickle
 
-consumer_key = 'Qm8jTkUvko2UJ55GaAFwOs8BL'
-consumer_secret = 'AmwQaiUBDCramfLavdHXUw5xoWJJXZoIpaPV1p3KeMAcvo2CZB'
+consumer_key = 'masukan consumer key'
+consumer_secret = 'masukan consumer secret'
 
 qry='anies baswedan' #query yang akan di cari
 maxTweets =  500# Isi sembarang nilai sesuai kebutuhan anda
